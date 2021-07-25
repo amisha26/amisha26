@@ -4,10 +4,10 @@
 
 ## I'm a novice Front-End Developer from India
 
-- 🔭 I just completed my B.Tech degree in Computer Science and Engineering from LNCT Bhopal (M.P), India.
+- 🔭 I have completed my BTech degree in Computer Science & Engineering from LNCT Bhopal (M.P), India.
 - 🌱 I’m currently learning ReactJs  and React-Native.
 - 🥅 2021 Goals: Contribute more to Open Source projects and become a good Front-End Developer.
-- ⚡ Fun fact: I love to play Football and Cricket and I am a Ronaldo and Manchester United fan and I love listening to rock and light music.
+- ⚡ Fun fact: I love to travel, binge watch Netflix and try different cuisines.
 
 
 ### Connect with me:

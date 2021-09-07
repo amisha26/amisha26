@@ -16,6 +16,8 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - ⚡ Fun fact: I love to travel, binge watch Netflix and try different cuisines.
 
 
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/self.gif?raw=true" width="408" height="318" />
+
 <br/>
 
 ### Languages and Tools:

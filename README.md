@@ -31,12 +31,23 @@
 <br />
 <br />
 
-[![My Github stats](https://github-readme-stats.vercel.app/api?username=amisha26&show_icons=true&&cache_seconds=86400&theme=radical)](https://github.com/amisha26/github-readme-stats)
+<!-- [![My Github stats](https://github-readme-stats.vercel.app/api?username=amisha26&show_icons=true&&cache_seconds=86400&theme=radical)](https://github.com/amisha26/github-readme-stats) -->
+
+<span> &nbsp; &nbsp; &nbsp; &nbsp; </span>
+ [![My Github stats](https://github-readme-stats.vercel.app/api?username=amisha26&show_icons=true&&cache_seconds=86400&theme=radical)](https://github.com/amisha26/github-readme-stats)<span>&nbsp; </span>
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amisha26&show_icons=true&theme=merko&hide=["contribs","prs"]&cache_seconds=86400)
+
+
 
 <br/>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <br/>
+
+<h2 align="center">
+<a href="https://stars.github.com/">Nominate me as GitHub Star If you want🌟</a>
+</h2>
+
 
 [linkedin]: https://www.linkedin.com/in/amisha-tiwari-50838b182/

@@ -1,5 +1,10 @@
 ### Hi there, I'm <a href="https://amishatiwari.netlify.app" target="_blank">Amisha Tiwari</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+### Glad to see you here!
+
+I am a Front-End software engineer. I love programming, writing, speaking and traveling.
+
+As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
 ## I'm a novice Front-End Developer from India
 
@@ -35,6 +40,7 @@
 <span> &nbsp; &nbsp; &nbsp; &nbsp; </span>
  [![My Github stats](https://github-readme-stats.vercel.app/api?username=amisha26&show_icons=true&&cache_seconds=86400&theme=radical)](https://github.com/amisha26/github-readme-stats)<span>&nbsp; </span>
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amisha26&show_icons=true&theme=merko&hide=["contribs","prs"]&cache_seconds=86400)
+
 
 
 

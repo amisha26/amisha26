@@ -17,6 +17,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 🌱 I’m currently learning ReactJs  and React-Native.
 - 🥅 2021 Goals: Contribute more to Open Source projects and become a good Front-End Developer.
 - ⚡ Fun fact: I love to travel, binge watch Netflix and try different cuisines.
+- 📝 [Resume](https://amishatiwari.netlify.app/static/media/at.b7b110aa.pdf).
 
 
 

@@ -1,5 +1,7 @@
 ### Hi there, I'm <a href="https://amishatiwari.netlify.app" target="_blank">Amisha Tiwari</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amisha-tiwari-50838b182/))
+
 ### Glad to see you here!
 
 I am a Front-End software engineer. I love programming, writing, speaking and traveling.
@@ -12,11 +14,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 🌱 I’m currently learning ReactJs  and React-Native.
 - 🥅 2021 Goals: Contribute more to Open Source projects and become a good Front-End Developer.
 - ⚡ Fun fact: I love to travel, binge watch Netflix and try different cuisines.
-
-
-### Connect with me:
-
-[<img align="left" alt="amisha26 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/>
 
@@ -55,4 +52,3 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 </h2>
 
 
-[linkedin]: https://www.linkedin.com/in/amisha-tiwari-50838b182/

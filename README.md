@@ -14,7 +14,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 ## Talking about Personal Stuffs 
 
 - 🔭 I have completed my BTech degree in Computer Science & Engineering from LNCT Bhopal (M.P), India.
-- 🌱 I’m currently learning ReactJs  and React-Native.
+- 🌱 I’m currently learning ReactJs and Data Structures <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🥅 2021 Goals: Contribute more to Open Source projects and become a good Front-End Developer.
 - ⚡ Fun fact: I love to travel, binge watch Netflix and try different cuisines.
 - 📝 [Resume](https://amishatiwari.netlify.app/static/media/at.b7b110aa.pdf).

@@ -4,6 +4,7 @@
 <!-- ### Hi there, I'm <a href="https://amishatiwari.netlify.app" target="_blank">Amisha Tiwari</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amisha-tiwari-50838b182/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://amishatiwari.netlify.app)
 
 ### Glad to see you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -11,7 +12,6 @@ I am a Software Engineer, Full Stack developer and an Open Source Contributor. I
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to build things that make a difference.
 
-Want to know more about me? [Check out my portfolio.](https://amishatiwari.netlify.app)
 
 <img align="right" alt="GIF" src="https://github.com/amisha26/amisha26/blob/master/self.gif?raw=true" width="408" height="318" />
 

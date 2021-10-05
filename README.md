@@ -1,4 +1,4 @@
-[![Amisha GitHub Banner](./name.png)](https://amishatiwari.netlify.app)
+[![Amisha GitHub Banner](./amisha.png)](https://amishatiwari.netlify.app)
 <!-- ### Hi there, I'm <a href="https://amishatiwari.netlify.app" target="_blank">Amisha Tiwari</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amisha-tiwari-50838b182/)

@@ -9,6 +9,7 @@ I am a Software Engineer, Full Stack developer and an Open Source Contributor. I
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to build things that make a difference.
 
+Want to know more about me? [Check out my portfolio.](https://amishatiwari.netlify.app)
 
 <img align="right" alt="GIF" src="https://github.com/amisha26/amisha26/blob/master/self.gif?raw=true" width="408" height="318" />
 

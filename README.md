@@ -37,8 +37,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 ![](https://img.shields.io/badge/SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-<br>
-
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)

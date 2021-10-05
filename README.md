@@ -50,13 +50,13 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 <details>
 <summary>Detailed Contribution</summary>
-<br>
-    <img src="https://github-profile-trophy.vercel.app/?username=amisha26&theme=onedark&column=3&margin-w=15&margin-h=15">
+<br>   
 <span>&nbsp;
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amisha26&theme=tokyonight&count_private=true)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amisha26&theme=github&count_private=true) 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amisha26&theme=github&count_private=true)
+
 </details>
 
 <h3 align="center"><img  src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
@@ -68,6 +68,5 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <h2 align="center">
 <a href="https://stars.github.com/">Nominate me as GitHub Star If you want🌟</a>
 </h2>
-
 
 [linkedin]: https://www.linkedin.com/in/amisha-tiwari-50838b182/

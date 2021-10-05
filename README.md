@@ -1,4 +1,6 @@
-[![Amisha GitHub Banner](./amisha.png)](https://amishatiwari.netlify.app)
+
+<img align="center" alt="GIF" src="https://github.com/amisha26/amisha26/blob/master/amisha.png?raw=true" width="900" height="318" />
+
 <!-- ### Hi there, I'm <a href="https://amishatiwari.netlify.app" target="_blank">Amisha Tiwari</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amisha-tiwari-50838b182/)

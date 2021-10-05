@@ -49,7 +49,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amisha26&show_icons=true&&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&hide=["contribs","prs"]&cache_seconds=86400)
 
 <details>
-<summary><h4>Detailed Contribution</h4></summary>
+<summary>Detailed Contribution</summary>
 <br>   
 <span>&nbsp;
 

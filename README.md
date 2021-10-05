@@ -48,6 +48,17 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 [![My Github stats](https://github-readme-stats.vercel.app/api?username=amisha26&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34)](https://github.com/amisha26/github-readme-stats)<span>&nbsp; </span>
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amisha26&show_icons=true&&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&hide=["contribs","prs"]&cache_seconds=86400)
 
+<details>
+<summary>Detailed Contribution</summary>
+<br>
+    <img src="https://github-profile-trophy.vercel.app/?username=amisha26&theme=onedark&column=3&margin-w=15&margin-h=15">
+<span>&nbsp;
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amisha26&theme=tokyonight&count_private=true)
+
+</details>
+
+
 <br/>
 <h3 align="center"><img  src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
   </h3>
@@ -59,7 +70,5 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <a href="https://stars.github.com/">Nominate me as GitHub Star If you want🌟</a>
 </h2>
 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amisha26&theme=tokyonight&count_private=true)
 
 [linkedin]: https://www.linkedin.com/in/amisha-tiwari-50838b182/

@@ -56,6 +56,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amisha26&theme=tokyonight&count_private=true)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amisha26&theme=github&count_private=true) 
 </details>
 
 <h3 align="center"><img  src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">

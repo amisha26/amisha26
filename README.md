@@ -30,7 +30,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=ADD8E6)
 ![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)

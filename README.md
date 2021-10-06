@@ -32,7 +32,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <img src="https://img.shields.io/badge/netlify-%231DA1F2.svg?&style=for-the-badge&logo=netlify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/mysql-%2312100E.svg?&style=for-the-badge&logo=mysql&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 
-<br/>
 
 <!-- ![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)

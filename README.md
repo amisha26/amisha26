@@ -30,13 +30,13 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <img src="https://img.shields.io/badge/java-%23D14836.svg?&style=for-the-badge&logo=java&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/spring-boot%20-%231572B6.svg?&style=for-the-badge&logo=spring-boot&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/netlify-%231DA1F2.svg?&style=for-the-badge&logo=netlify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/mysql-%2312100E.svg?&style=for-the-badge&logo=mysql&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 
 <br/>
 
 ![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)

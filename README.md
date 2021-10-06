@@ -34,7 +34,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 <br/>
 
-![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
+<!-- ![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
@@ -43,9 +43,10 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=4AB197) -->
 
 <!-- [![My Github stats](https://github-readme-stats.vercel.app/api?username=amisha26&show_icons=true&&cache_seconds=86400&theme=radical)](https://github.com/amisha26/github-readme-stats) -->
+
 
 ## &#x1f4c8; GitHub Stats
 

@@ -65,8 +65,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
   </h3>
  <h3><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></h3>
 
-<br/>
-
+<hr>
 <h2 align="center">
 <a href="https://stars.github.com/">Nominate me as GitHub Star If you want🌟</a>
 </h2>

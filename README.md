@@ -23,9 +23,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 <br/>
 
-<hr>
-
-<h2 align="center"> 🔭 Tools of Trade</h2>
+## 🔭 Tools of Trade
 
 <img src="https://img.shields.io/badge/python%20-%2343853D.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -49,7 +47,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 <!-- [![My Github stats](https://github-readme-stats.vercel.app/api?username=amisha26&show_icons=true&&cache_seconds=86400&theme=radical)](https://github.com/amisha26/github-readme-stats) -->
 
-<h2 align="center"> &#x1f4c8; GitHub Stats</h2>
+## &#x1f4c8; GitHub Stats
 
 <span> &nbsp; &nbsp; &nbsp; &nbsp; </span>
 [![My Github stats](https://github-readme-stats.vercel.app/api?username=amisha26&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34)](https://github.com/amisha26/github-readme-stats)<span>&nbsp; </span>

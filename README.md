@@ -27,17 +27,17 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 <img src="https://img.shields.io/badge/python%20-%2343853D.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/java-%23D14836.svg?&style=for-the-badge&logo=java&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/spring-boot%20-%231572B6.svg?&style=for-the-badge&logo=spring-boot&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/netlify-%231DA1F2.svg?&style=for-the-badge&logo=netlify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br/>
 
 ![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)

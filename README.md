@@ -25,6 +25,10 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 ## 💼 Skills
 
+<img src="https://img.shields.io/badge/python%20-%2343853D.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/spring-boot%20-%231572B6.svg?&style=for-the-badge&logo=spring-boot&logoColor=white" />&nbsp;&nbsp;
+<br/>
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
@@ -70,7 +74,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <a href="https://stars.github.com/">Nominate me as GitHub Star If you want🌟</a>
 </h2>
 
-
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+<!-- <h2  align="center">💻 Check Out My Repos ⬇️ </h2> -->
 
 [linkedin]: https://www.linkedin.com/in/amisha-tiwari-50838b182/

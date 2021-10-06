@@ -2,8 +2,8 @@
 
 <!-- ### Hi there, I'm <a href="https://amishatiwari.netlify.app" target="_blank">Amisha Tiwari</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%2343853D.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amisha-tiwari-50838b182/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://amishatiwari.netlify.app)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amisha-tiwari-50838b182/)
+[![Website Badge](https://img.shields.io/badge/personal-web%20-%231572B6.svg?&style=for-the-badge&logo=personal-web&logoColor=white)](https://amishatiwari.netlify.app)
 
 ### Glad to see you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 

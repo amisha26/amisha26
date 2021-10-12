@@ -1,11 +1,13 @@
-### Hi there, I'm <a href="https://amishatiwari.netlify.app" target="_blank">Amisha Tiwari</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img align="center" alt="GIF" src="https://github.com/amisha26/amisha26/blob/master/amisha.gif?raw=true" width="900" height="400" />
+
+<!-- ### Hi there, I'm <a href="https://amishatiwari.netlify.app" target="_blank">Amisha Tiwari</a>  -->
 
 <!-- ### Hi there, I'm <a href="https://amishatiwari.netlify.app" target="_blank">Amisha Tiwari</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amisha-tiwari-50838b182/)
 [![portfolio](https://img.shields.io/badge/Portfolio-007AFF?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://amishatiwari.netlify.app)
 
-### Glad to see you here! 
+### Glad to see you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
 I am a Software Engineer, Full Stack developer and an Open Source Contributor. I love programming, reading books and traveling.
@@ -81,4 +83,3 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 [linkedin]: https://www.linkedin.com/in/amisha-tiwari-50838b182/
 
 
-<!-- <img align="center" alt="GIF" src="https://github.com/amisha26/amisha26/blob/master/name.gif?raw=true" width="900" height="400" /> -->

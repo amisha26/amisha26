@@ -5,7 +5,7 @@
 <!-- ### Hi there, I'm <a href="https://amishatiwari.netlify.app" target="_blank">Amisha Tiwari</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amisha-tiwari-50838b182/)
-[![portfolio](https://img.shields.io/badge/Portfolio-007AFF?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://amishatiwari.netlify.app)
+[![portfolio](https://img.shields.io/badge/Portfolio-007AFF?style=for-the-badge&logo=Google-chrome&logoColor=white)](http://www.amisha.codes/)
 
 ### Glad to see you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->

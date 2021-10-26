@@ -55,7 +55,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 ## &#x1f4c8; GitHub Stats
 
 <span> &nbsp; &nbsp; &nbsp; &nbsp; </span>
-[![My Github stats](https://github-readme-stats.vercel.app/api?username=amisha26&show_icons=true&line_height=27&width=20&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34)](https://github.com/amisha26/github-readme-stats)<span>&nbsp; </span>
+[![My Github stats](https://github-readme-stats.vercel.app/api?username=amisha26&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34)](https://github.com/amisha26/github-readme-stats)<span>&nbsp; </span>
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amisha26&show_icons=true&&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&hide=["contribs","prs"]&cache_seconds=86400)
 
 <details>

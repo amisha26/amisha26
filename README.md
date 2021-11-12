@@ -24,7 +24,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 🥅 2021 Goals: Contribute more to Open Source projects, learn something new and enhance my existing skills.
 - ⚡ Fun fact: I love to travel, binge watch Netflix.
  <!-- and can eat pineapples on a pizza. -->
-- 📝 [Resume](https://amishatiwari.netlify.app/static/media/at.b7b110aa.pdf).
+- 📝 [Resume](https://amishatiwari.netlify.app/static/media/at.b7b110aa.pdf)
 
 <br/>
 

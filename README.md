@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="https://github.com/amisha26/amisha26/blob/master/amis.gif?raw=true" width="900" height="400" />
+<img align="center" alt="GIF" src="https://github.com/amisha26/amisha26/blob/master/atiwari.gif?raw=true" width="900" height="400" />
 
 <!-- ### Hi there, I'm <a href="https://amishatiwari.netlify.app" target="_blank">Amisha Tiwari</a>  -->
 

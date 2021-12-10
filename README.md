@@ -17,7 +17,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <img align="right" alt="GIF" src="https://github.com/amisha26/amisha26/blob/master/self.gif?raw=true" width="408" height="318" />
 
 
-## Talking about Personal Stuffs
+## Talking about Personal Stuff
 
 - 🔭 I have completed my BTech in Computer Science & Engineering from LNCT Bhopal (M.P), India.
 - 🌱 I am currently learning React.js, Java, Spring-Boot <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">

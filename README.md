@@ -1,11 +1,14 @@
-<img align="center" alt="GIF" src="https://github.com/amisha26/amisha26/blob/master/amisha.png?raw=true" width="900" height="400" />
+<img align="center" alt="GIF" src="https://github.com/amisha26/amisha26/blob/master/ati.gif?raw=true" width="900" height="400" />
+
+<!-- ### Hi there, I'm <a href="https://amishatiwari.netlify.app" target="_blank">Amisha Tiwari</a>  -->
 
 <!-- ### Hi there, I'm <a href="https://amishatiwari.netlify.app" target="_blank">Amisha Tiwari</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amisha-tiwari-50838b182/)
-[![portfolio](https://img.shields.io/badge/Portfolio-007AFF?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://amishatiwari.netlify.app)
+[![portfolio](https://img.shields.io/badge/Portfolio-007AFF?style=for-the-badge&logo=Google-chrome&logoColor=white)](http://www.amisha.codes/)
 
 ### Glad to see you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
 I am a Software Engineer, Full Stack developer and an Open Source Contributor. I love programming, reading books and traveling.
 
@@ -21,7 +24,11 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 🥅 2021 Goals: Contribute more to Open Source projects, learn something new and enhance my existing skills.
 - ⚡ Fun fact: I love to travel, binge watch Netflix.
  <!-- and can eat pineapples on a pizza. -->
+<<<<<<< HEAD
 - 📝 [Resume](https://drive.google.com/file/d/106qgIZDO2pfQPbPvGX1p5X5aR8onvitw/view?usp=sharing).
+=======
+- 📝 [Resume](https://amishatiwari.netlify.app/static/media/at.b7b110aa.pdf)
+>>>>>>> d460f4a9d296f517a99d7061cb0946c0fbed6c93
 
 <br/>
 
@@ -51,15 +58,17 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 ## &#x1f4c8; GitHub Stats
 
-<span> &nbsp; &nbsp; &nbsp; &nbsp; </span>
+<span> &nbsp;</span>
 [![My Github stats](https://github-readme-stats.vercel.app/api?username=amisha26&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34)](https://github.com/amisha26/github-readme-stats)<span>&nbsp; </span>
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amisha26&show_icons=true&&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&hide=["contribs","prs"]&cache_seconds=86400)
 
 <details>
 <summary>Detailed Contribution</summary>
 <br>   
-<span>&nbsp;
 
+
+
+<span>&nbsp;
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amisha26&theme=tokyonight&count_private=true)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amisha26&theme=github&count_private=true)
@@ -78,3 +87,5 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!-- <h2  align="center">💻 Check Out My Repos ⬇️ </h2> -->
 
 [linkedin]: https://www.linkedin.com/in/amisha-tiwari-50838b182/
+
+

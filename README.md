@@ -24,9 +24,8 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 🥅 2021 Goals: Contribute more to Open Source projects, learn something new and enhance my existing skills.
 - ⚡ Fun fact: I love to travel, binge watch Netflix.
  <!-- and can eat pineapples on a pizza. -->
-<<<<<<< HEAD
 - 📝 [Resume](https://drive.google.com/file/d/106qgIZDO2pfQPbPvGX1p5X5aR8onvitw/view?usp=sharing).
->>>>>>> d460f4a9d296f517a99d7061cb0946c0fbed6c93
+
 
 <br/>
 

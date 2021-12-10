@@ -26,7 +26,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
  <!-- and can eat pineapples on a pizza. -->
 - 📝 [Resume](https://drive.google.com/file/d/106qgIZDO2pfQPbPvGX1p5X5aR8onvitw/view?usp=sharing).
 
-
 <br/>
 
 ## 🔭 Tools of Trade :- 

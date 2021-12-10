@@ -9,7 +9,7 @@
 
 I am a Software Engineer, Full Stack developer and an Open Source Contributor. I love programming, reading books and traveling.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to build things that make a difference.
+As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That is why I like to build things that can make a difference.
 
 <img align="right" alt="GIF" src="https://github.com/amisha26/amisha26/blob/master/self.gif?raw=true" width="408" height="318" />
 
@@ -21,7 +21,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 🥅 2021 Goals: Contribute more to Open Source projects, learn something new and enhance my existing skills.
 - ⚡ Fun fact: I love to travel, binge watch Netflix.
  <!-- and can eat pineapples on a pizza. -->
-- 📝 [Resume](https://amishatiwari.netlify.app/static/media/at.b7b110aa.pdf).
+- 📝 [Resume](https://drive.google.com/file/d/106qgIZDO2pfQPbPvGX1p5X5aR8onvitw/view?usp=sharing).
 
 <br/>
 

@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="https://github.com/amisha26/amisha26/blob/master/ati.gif?raw=true" width="900" height="400" />
+<!-- <img align="center" alt="GIF" src="https://github.com/amisha26/amisha26/blob/master/ati.gif?raw=true" width="900" height="400" /> -->
 
 <!-- ### Hi there, I am <a href="https://amishatiwari.netlify.app" target="_blank">Amisha Tiwari</a>  -->
 
@@ -20,6 +20,7 @@ As a software engineer, I enjoy using my obsessive attention to detail and my un
 ## Talking about Personal Stuff
 
 - 🔭 I am a Computer Science graduate student at Northeastern University, Boston (Khoury College of Computer Sciences).
+- 🏠 I live in Boston, Massachusetts and Charles River Esplanade is my favourite spot in Boston.
 - 🌱 I am currently learning NodeJs, Java, Spring-Boot <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🥅 2023 Goals: Contribute more to Open Source projects, learn something new and enhance my existing skills.
 - ⚡ Fun fact: I love white chocolate.
@@ -72,7 +73,7 @@ As a software engineer, I enjoy using my obsessive attention to detail and my un
 
 <h3 align="center"><img  src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
   </h3>
- <h3><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to talk to you!</b> :)</em></h3>
+ <h3><em><b>I am a people's person and love to connect</b> so if you want to say <b>hi, I'll be happy to talk to you!</b> :)</em></h3>
 
 <hr>
 <h2 align="center">

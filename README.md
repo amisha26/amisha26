@@ -1,6 +1,6 @@
 <img align="center" alt="GIF" src="https://github.com/amisha26/amisha26/blob/master/ati.gif?raw=true" width="900" height="400" />
 
-<!-- ### Hi there, I'm <a href="https://amishatiwari.netlify.app" target="_blank">Amisha Tiwari</a>  -->
+<!-- ### Hi there, I am <a href="https://amishatiwari.netlify.app" target="_blank">Amisha Tiwari</a>  -->
 
 <!-- ### Hi there, I'm <a href="https://amishatiwari.netlify.app" target="_blank">Amisha Tiwari</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
@@ -10,20 +10,19 @@
 ### Glad to see you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
-I am a Software Engineer, Full Stack developer and an Open Source Contributor. I love programming, reading books and traveling.
+I am a Student, Software Engineer, Full Stack developer and an Open Source Contributor. I love programming, watching movies and exploring around. I am a gastronome and an unfuckwithable nature enthusiast. 
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That is why I like to build things that can make a difference.
+As a software engineer, I enjoy using my obsessive attention to detail and my unequivocal love for making things that change the world. That is why I like to build things that can make a difference.
 
 <img align="right" alt="GIF" src="https://github.com/amisha26/amisha26/blob/master/self.gif?raw=true" width="408" height="318" />
 
 
 ## Talking about Personal Stuff
 
-- 🔭 I have completed my BTech in Computer Science & Engineering from LNCT Bhopal (M.P), India.
-- 🌱 I am currently learning React.js, Java, Spring-Boot <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🥅 2021 Goals: Contribute more to Open Source projects, learn something new and enhance my existing skills.
-- ⚡ Fun fact: I love to travel, binge watch Netflix.
- <!-- and can eat pineapples on a pizza. -->
+- 🔭 I am a Computer Science graduate student at Northeastern University, Boston (Khoury College of Computer Sciences).
+- 🌱 I am currently learning NodeJs, Java, Spring-Boot <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🥅 2023 Goals: Contribute more to Open Source projects, learn something new and enhance my existing skills.
+- ⚡ Fun fact: I love white chocolate.
 - 📝 [Resume](https://drive.google.com/file/d/106qgIZDO2pfQPbPvGX1p5X5aR8onvitw/view?usp=sharing).
 
 <br/>
